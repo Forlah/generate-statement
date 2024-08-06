@@ -1,0 +1,65 @@
+{
+  "fullName": "SANDRA SAULGRIEZE",
+  "address": "14 The Dale Whitefield hall Bettystorm Meath A9N27C",
+  "footerNote": "Revolut Ltd is registered in England and Wales (No. 08804411), 7 Westferry Circus, Canary Wharf, London, England, E14 4HD and is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011 (Firm Reference 900562). Revolut Travel Ltd is authorised by the Financial Conduct Authority to undertake insurance distribution activities (FCA No: 780586). Our insurance products are arranged by Revolut Travel Ltd and Revolut Ltd, which is an appointed representative of Revolut Travel Ltd. Revolut’s stock trading products are provided by Revolut Trading Ltd (No. 832790), an appointed representative of Resolution Compliance Ltd, which is authorised and regulated by the Financial Conduct Authority.",
+  "ibanInfo": [
+    {
+      "iban": "IE30REV099036022547749",
+      "bic": "REV0IE23",
+      "message": ""
+    },
+    {
+      "iban": "LT093250041069208595",
+      "bic": "REVOLT21",
+      "message": "(You cannot use this IBAN for bank transfers. Please use the IBAN found in the app)"
+    },
+    {
+      "iban": "LT087070024346246713",
+      "bic": "RETBLT21",
+      "message": "(You cannot use this IBAN for bank transfers. Please use the IBAN found in the app)"
+    }
+  ],
+  "product": {
+    "name": "Account (Current Account)",
+    "currency": "£",
+    "openingBalance": "2.25",
+    "moneyOut": "1,944.09",
+    "moneyIn": "1,978.00",
+    "closingBalance": "36.43"
+  },
+  "startDate": "1 February 2023",
+  "endDate": "29 March 2023",
+  "date": "20 May 2023",
+  "transactions": [
+    {
+      "date": "3 Feb 2023",
+      "description": "Apple Pay Top-Up by *5453",
+      "moneyIn": "50.00",
+      "moneyOut": "",
+      "balance": "52.52",
+      "currency": "£"
+    },
+    {
+      "date": "3 Feb 2023",
+      "description": "Apple Pay Top-Up by *5453",
+      "moneyIn": "100.00",
+      "moneyOut": "",
+      "balance": "152.52",
+      "currency": "£"
+    },
+    {
+      "date": "3 Feb 2023",
+      "description": "To LINA MILLER SAULGREZE",
+      "moneyOut": "100.00",
+      "balance": "52.52",
+      "currency": "£"
+    },
+    {
+      "date": "7 Feb 2023",
+      "description": "To LINA MILLER SAULGREZE",
+      "moneyOut": "10.00",
+      "balance": "42.52",
+      "currency": "£"
+    }
+  ]
+}
